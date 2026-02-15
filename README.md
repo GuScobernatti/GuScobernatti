@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Gustavo Scobernatti Banner" width="100%">
   <br>
   <a href="https://git.io/typing-svg" marginTop="10px">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+bem-vindo.;Sou+o+Gustavo%2C+Desenvolvedor+Fullstack.;Abaixo+est%C3%A3o+algumas+informa%C3%A7%C3%B5es+sobre+mim." alt="Typing SVG" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+bem-vindo.;Sou+o+Gustavo%2C+Desenvolvedor+Fullstack.;Abaixo+est%C3%A3o+algumas+informa%C3%A7%C3%B5es+sobre+mim." alt="Typing SVG" />
   </a>
 </p>
 
