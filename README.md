@@ -1,17 +1,44 @@
 # 💫 About Me:
-Cursando Engenharia da Computação, sou apaixonado naquilo que melhor sei fazer, escrever código. Durante a minha vida participei de vários projetos de diversas áreas. Sou um ser curioso e busco sempre conhecer as coisas que estão ao nosso redor. Não atoa participei de diversos projetos científicos, olimpíadas científicas, bolsas de iniciação científicas posteriormente monitor dessa mesma bolsa de iniciação científica, até divulgador científico com um foco para a astronomia. No geral sou fanático pelo conhecimento, adoro conhecer coisas novas e a programação foi um desses desafios, hoje busco diariamente compreender o universo por trás da computação para que eu possa oferecer os melhores serviços e soluções como programador. <br><br>Estudo desenvolvimento web desde 2023, tendo bons conhecimentos em frontend com as tecnologias HTML, CSS, SASS, Javascript, GIT, React.js e suas funcionalidades. Um tempo depois passei a estudar backend utilizando Node.js e banco de dados relacionais (PostgreSQL). Além disso, na faculdade realizo as matérias e atividades/projetos utilizando C++. Hoje me considero um desenvolvedor fullstack.
 
+Estudante de **Engenharia da Computação** apaixonado por transformar lógica em soluções reais através do código. Minha trajetória é marcada pela curiosidade: de monitor de iniciação científica e divulgador de astronomia a desenvolvedor Fullstack. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guscobernatti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-scobernatti/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavo.scobernatti26@gmail.com) 
+Hoje, foco em compreender a fundo a arquitetura da computação para entregar sistemas robustos e eficientes.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🚀 Atualmente focado em: **React.js, Next.js e C++**
+- 🧠 Explorando: **Inteligência Artificial aplicada à Engenharia**
+- 🔭 Curiosidade: Já fui divulgador científico focado em astronomia!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GuScobernatti&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack:
+
+### 🌐 Frontend
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+### ⚙️ Backend & DB
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
+### 🚀 Languages & Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuScobernatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuScobernatti&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+</p>
+
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-scobernatti/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guscobernatti_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavo.scobernatti26@gmail.com)
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=GuScobernatti&icon=0&color=0" alt="Visit Count" />
+</p>
