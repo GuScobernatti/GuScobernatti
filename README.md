@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GuScobernatti/GuScobernatti/main/banner.png" alt="Gustavo Scobernatti Banner" width="100%">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo.;Sou+o+Gustavo+Desenvolvedor-Fullstack.;Abaixo+estão+algumas+informações+sobre+mim.)](https://git.io/typing-svg)
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá,+bem-vindo.;Sou+o+Gustavo,+Desenvolvedor+Fullstack.;Abaixo+estão+algumas+informações+sobre+mim." alt="Typing SVG" />
+  </a>
 </p>
 
 # 💫 About Me:
