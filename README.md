@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Gustavo Scobernatti Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/GuScobernatti/GuScobernatti/main/banner.png" alt="Gustavo Scobernatti Banner" width="100%">
 </p>
 
 # 💫 About Me:
@@ -29,12 +29,3 @@ Hoje, foco em compreender a fundo a arquitetura da computação para entregar si
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-scobernatti/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guscobernatti_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavo.scobernatti26@gmail.com)
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GuScobernatti&icon=0&color=0" alt="Visit Count" />
-</p>
