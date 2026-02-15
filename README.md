@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Gustavo Scobernatti Banner" width="100%">
+</p>
+
 # 💫 About Me:
 
 Estudante de **Engenharia da Computação** apaixonado por transformar lógica em soluções reais através do código. Minha trajetória é marcada pela curiosidade: de monitor de iniciação científica e divulgador de astronomia a desenvolvedor Fullstack. 
@@ -20,14 +24,6 @@ Hoje, foco em compreender a fundo a arquitetura da computação para entregar si
 
 ### 🚀 Languages & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuScobernatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuScobernatti&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-</p>
 
 ---
 
